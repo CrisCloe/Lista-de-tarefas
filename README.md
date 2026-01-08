@@ -1,5 +1,4 @@
 # Lista-de-tarefas
-Trabalho de Engenharia de Software UFMA - BICT
 
 Programa de lista de tarefas para obtenção da terceira nota da disciplina Engenharia de Software
 
